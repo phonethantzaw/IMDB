@@ -4,7 +4,7 @@ Writing with Spring Boot
 
 Get Api key from https://rapidapi.com/
 
-API Call from POSTMAN Endpoint with http://localhost:8080/api
+Run Project & Call Api from POSTMAN Endpoint with http://localhost:8080/api
  
  /searchTitle --> POST <br/>
  Add <b>Body</b> Path <b>form-data</b> with below <b>key value</b><br/>
